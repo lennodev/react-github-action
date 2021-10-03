@@ -1,4 +1,4 @@
-# Objective
+# Objective of this repository
 This repository aims to demonstrate the capabilities of GitHub actions. The React application will be deployed to GitHub Pages once the source code committed and pushed to main branch.
 
 # React application content
