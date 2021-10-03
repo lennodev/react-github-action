@@ -1,5 +1,5 @@
 {
-  "name": "react-github-action",
+  "name": "react-github-actions",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,5 +46,5 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.4.1"
   },
-  "homepage": "/react-github-action"
+  "homepage": "/react-github-actions"
 }
